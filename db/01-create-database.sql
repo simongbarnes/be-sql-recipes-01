@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS my_recipes;
+
+CREATE DATABASE my_recipes;
